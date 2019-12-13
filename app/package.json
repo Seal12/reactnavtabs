@@ -1,0 +1,11 @@
+{
+  "name": "app",
+  "main": "shell.tsx",
+  "version": "0.0.2",
+  "description": "ReactNavTabs",
+  "files": [
+    "assets",
+    "navigation",
+    "screens"
+  ]
+}
